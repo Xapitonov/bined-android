@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">BinEd</string>
+    <string name="app_about">Название: BinEd - Двоичный/Шестнадцатеричный редактор\nВерсия: %1$s\nРазработчик: &lt;a href=""https://exbin.org""&gt;Проект ExBin&lt;/a&gt;\nЛицензия: &lt;a href=""https://www.apache.org/licenses/LICENSE-2.0""&gt;Лицензия Apache, Версия 2.0&lt;/a&gt;\nДомашняя страница: &lt;a href=""https://bined.exbin.org/android""&gt;https://bined.exbin.org/android&lt;/a&gt;\n\nУчастники:</string>
+    <string name="bined_logo_description">Логотип BinEd</string>
+
+    <!-- Actions & menu -->
+
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="action_new">Новый</string>
+    <string name="action_open">Открыть</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_save_as">Сохранить как</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="action_about">Информация</string>
+
+    <string name="action_search">Поиск</string>
+    <string name="action_undo">Отменить</string>
+    <string name="action_redo">Повторить</string>
+    <string name="action_selection_start">Начало выбора</string>
+    <string name="action_selection_end">Конец выбора</string>
+    <string name="action_clear_selection">Очистить выбор</string>
+    <string name="action_cut">Вырезать</string>
+    <string name="action_copy">Копировать</string>
+    <string name="action_copy_as_code">Копировать как код</string>
+    <string name="action_paste">Вставить</string>
+    <string name="action_paste_from_code">Вставить из кода</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_select_all">Выбрать всё</string>
+
+    <string name="action_exit">Выход</string>
+
+    <string name="view_menu">Вид</string>
+    <string name="visual_theme">Визуальная тема</string>
+    <string name="language">Язык</string>
+    <string name="view_mode">Режим просмотра</string>
+    <string name="code_type">Тип кода</string>
+    <string name="hex_characters_case">Регистр 16-ичных символов</string>
+    <string name="encoding">Кодировка</string>
+    <string name="code_colorization">Раскраска кода</string>
+    <string name="file_handling_mode">Режим обработки файлов</string>
+    <string name="nonprintable_characters">Непечатные символы</string>
+    <string name="go_to_position">Перейти к позиции</string>
+    <string name="edit_selection">Редактировать выбор</string>
+    <string name="insert_data">Вставить данные</string>
+    <string name="convert_data">Конвертировать данные</string>
+    <string name="edit_menu">Редактировать</string>
+    <string name="font">Шрифт</string>
+    <string name="bytes_per_row">Байты на строку</string>
+    <string name="bytes_per_row_fill">Заполнить экран</string>
+    <string name="bytes_per_row_4">4 байта</string>
+    <string name="bytes_per_row_8">8 байт</string>
+    <string name="bytes_per_row_12">12 байт</string>
+    <string name="bytes_per_row_16">16 байт</string>
+    <string name="bytes_per_row_custom">Личный</string>
+    <string name="tools_menu">Инструменты</string>
+
+    <string name="application_about">О приложении</string>
+    <string name="select_file">Выберите файл</string>
+    <string name="save_as_file">Сохранить как файл</string>
+    <string name="file_modified">Файл был изменён</string>
+    <string name="storage_permission_is_not_granted">Разрешение на использование памяти не предоставлено</string>
+    <string name="storage_permission_request">Необходимо включить разрешения на доступ к памяти</string>
+
+    <string name="button_close">Закрыть</string>
+    <string name="button_donate">Пожертвовать</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_set">Задать</string>
+    <string name="button_go_to">Перейти к</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_discard">Отменить</string>
+    <string name="button_request">Запрос</string>
+
+    <!-- Preference Titles -->
+
+    <string name="pref_header_appearance">Облик</string>
+    <string name="pref_view_header">Вид</string>
+
+</resources>
