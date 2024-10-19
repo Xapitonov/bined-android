@@ -1,0 +1,47 @@
+<resources>
+    <string-array name="theme_entries">
+        <item>Автоматика (системная)</item>
+        <item>Светлая</item>
+        <item>Тёмная</item>
+    </string-array>
+
+    <string-array name="language_entries">
+        <item>По умолчанию (системный)</item>
+        <item>English</item>
+        <item>Česky</item>
+        <item>हिंदी</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="bytes_per_row_entries">
+        <item>Заполнить экран</item>
+        <item>4 байта</item>
+        <item>8 байт</item>
+        <item>12 байтов</item>
+        <item>16 байт</item>
+        <item>Личный</item>
+    </string-array>
+
+    <string-array name="view_mode_entries">
+        <item>Двойной</item>
+        <item>Кодовая матрица</item>
+        <item>Просмотр текста</item>
+    </string-array>
+
+    <string-array name="code_type_entries">
+        <item>2-ичный</item>
+        <item>8-ичный</item>
+        <item>10-ичный</item>
+        <item>16-ичный</item>
+    </string-array>
+
+    <string-array name="hex_chars_case_entries">
+        <item>Нижний регистр</item>
+        <item>Верхний регистр</item>
+    </string-array>
+
+    <string-array name="file_handling_mode_entries">
+        <item>Загрузить полный файл</item>
+        <item>Только изменения</item>
+    </string-array>
+</resources>
